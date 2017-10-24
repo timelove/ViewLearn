@@ -21,7 +21,7 @@ class RoundRectView : View {
 
 
     var paint: Paint = Paint(Paint.ANTI_ALIAS_FLAG)
-    var rectF: RectF = RectF(200f, 100f, 300f, 250f) //定义 左，上，右，下参数，其实就是左上角的坐标点，和右下角的坐标点
+    var rectF: RectF = RectF(100f, 100f, 300f, 250f) //定义 左，上，右，下参数，其实就是左上角的坐标点，和右下角的坐标点
 
     override fun onDraw(canvas: Canvas?) {
         super.onDraw(canvas)
