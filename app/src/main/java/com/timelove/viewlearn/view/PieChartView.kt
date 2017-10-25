@@ -7,8 +7,6 @@ import android.graphics.Paint
 import android.graphics.RectF
 import android.util.AttributeSet
 import android.view.View
-
-
 /**
  * author： bw
  * data：  2017.10.13 15:44
